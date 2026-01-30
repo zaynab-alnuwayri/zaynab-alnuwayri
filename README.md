@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Zaynab, and I'm a senior Data Science student passionate about education, data, and technology for social impact. 
+My name is Zaynab, and I'm a senior data science student passionate about education, data, and technology for social impact. 
 
 ### 💡 Interests
 - Data analytics & data engineering  
