@@ -3,10 +3,10 @@
 My name is Zaynab, and I'm a senior data science student passionate about education, data, and technology for social impact. 
 
 ### 💡 Interests
-- Data analytics & data engineering  
-- Education technology (EdTech)  
-- Databases, dashboards, and data visualization  
-- Using data to support community-focused organizations  
+- Making sense of messy data and turning it into something useful  
+- Building dashboards, databases, and models people actually rely on for decision-making 
+- Exploring how data reveals system behavior, risks, and patterns over time
+- Using technology for social impact
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, R, SQL, Java  
